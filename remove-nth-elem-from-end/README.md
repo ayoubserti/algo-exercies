@@ -18,3 +18,6 @@ Could you do this in one pass?
 # Solution
 
 A basic solution is propused in `solution1.cc` which make a double pass. The first pass using `getListLength` function that calculate the length of the linked list. Then a second pass that find the n-th element from tail and remove it.
+
+# link
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
